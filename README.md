@@ -1,7 +1,7 @@
 # SurveillanceVideoDataset
 This is a dataset for detection persons in surveillance videos.
 
-The dataset consists of 2000 pictures including 1404 positive samples and 596 negative samples.
+The dataset consists of 2000 pictures including 1404 positive samples and 596 negative samples from INRIA, CUHK square and USC-B.
 
 The labels has the same name with pictures. The label has a following form:
 
